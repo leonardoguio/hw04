@@ -1,5 +1,5 @@
 # Trabalho Final de Inteligência Artificial  
-## Inteligância Artificial - Mestrado Profissional em Computação Aplicada  
+## Inteligência Artificial - Mestrado Profissional em Computação Aplicada  
 ### Prof. Dr. Jefferson O. Andrade  
 #### Instituto Federal do Espírito Santo - Campus Serra  
 #### 2019/1  
