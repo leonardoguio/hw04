@@ -12,5 +12,3 @@ BOYSEN, Nils; STEPHAN, Konrad. A survey on single crane scheduling in automateds
 CORMEN, Thomas H et al.Introduction to algorithms. [S.l.]: MIT press, 2009.  
 MASCHIETTO, Gabriela Naves et al. Scheduling cranes to retrieve steel coils in awarehouse.IFAC-PapersOnLine, Elsevier, v. 49, n. 12, p. 1020–1025, 2016.  
 RUSSELL, Stuart J; NORVIG, Peter.Artificial intelligence: a modern approach. [S.l.]:Malaysia; Pearson Education Limited„ 2016.  
-
-1
